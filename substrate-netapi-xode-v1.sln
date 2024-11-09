@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substrate.Xode.NET.RestService", "Substrate.Xode.NET.RestService\Substrate.Xode.NET.RestService.csproj", "{B508C51C-AAAA-467E-A9BF-13B5FE6D085C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substrate.Xode.NET.NetApiExt", "Substrate.Xode.NET.NetApiExt\Substrate.Xode.NET.NetApiExt.csproj", "{CA474049-DF84-413A-8B0C-08BEA18F821D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substrate.Xode.NET.Integration", "Substrate.Xode.NET.Integration\Substrate.Xode.NET.Integration.csproj", "{05D2A67E-3B09-4F19-81AB-C6D7CE08C534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substrate.Xode.NET.RestClient", "Substrate.Xode.NET.RestClient\Substrate.Xode.NET.RestClient.csproj", "{DBAB47DC-8808-4A73-8671-FDE227761062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substrate.Xode.NET.RestClient.Mockup", "Substrate.Xode.NET.RestClient.Mockup\Substrate.Xode.NET.RestClient.Mockup.csproj", "{7EB1F433-61B0-4790-BE8E-E7320FA5F01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substrate.Xode.NET.RestClient.Test", "Substrate.Xode.NET.RestClient.Test\Substrate.Xode.NET.RestClient.Test.csproj", "{D8F0A74C-A181-4BF8-A569-28DF46C8DFAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substrate.Xode.NET", "Substrate.Xode.NET\Substrate.Xode.NET.csproj", "{9CAA5FE5-9DE0-4205-B492-897950093927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B508C51C-AAAA-467E-A9BF-13B5FE6D085C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B508C51C-AAAA-467E-A9BF-13B5FE6D085C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B508C51C-AAAA-467E-A9BF-13B5FE6D085C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B508C51C-AAAA-467E-A9BF-13B5FE6D085C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA474049-DF84-413A-8B0C-08BEA18F821D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA474049-DF84-413A-8B0C-08BEA18F821D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA474049-DF84-413A-8B0C-08BEA18F821D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA474049-DF84-413A-8B0C-08BEA18F821D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D2A67E-3B09-4F19-81AB-C6D7CE08C534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D2A67E-3B09-4F19-81AB-C6D7CE08C534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D2A67E-3B09-4F19-81AB-C6D7CE08C534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D2A67E-3B09-4F19-81AB-C6D7CE08C534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAB47DC-8808-4A73-8671-FDE227761062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAB47DC-8808-4A73-8671-FDE227761062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAB47DC-8808-4A73-8671-FDE227761062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAB47DC-8808-4A73-8671-FDE227761062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB1F433-61B0-4790-BE8E-E7320FA5F01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB1F433-61B0-4790-BE8E-E7320FA5F01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB1F433-61B0-4790-BE8E-E7320FA5F01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB1F433-61B0-4790-BE8E-E7320FA5F01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F0A74C-A181-4BF8-A569-28DF46C8DFAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F0A74C-A181-4BF8-A569-28DF46C8DFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F0A74C-A181-4BF8-A569-28DF46C8DFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F0A74C-A181-4BF8-A569-28DF46C8DFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CAA5FE5-9DE0-4205-B492-897950093927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAA5FE5-9DE0-4205-B492-897950093927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAA5FE5-9DE0-4205-B492-897950093927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAA5FE5-9DE0-4205-B492-897950093927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

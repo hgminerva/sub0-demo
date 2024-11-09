@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Substrate.Xode.NET.Integration\Substrate.Xode.NET.Integration.csproj"/>
+    <ProjectReference Include="..\Substrate.Xode.NET.NetApiExt\Substrate.Xode.NET.NetApiExt.csproj"/>
+    <ProjectReference Include="..\Substrate.Xode.NET.RestClient.Mockup\Substrate.Xode.NET.RestClient.Mockup.csproj"/>
+    <ProjectReference Include="..\Substrate.Xode.NET.RestClient.Test\Substrate.Xode.NET.RestClient.Test.csproj"/>
+    <ProjectReference Include="..\Substrate.Xode.NET.RestClient\Substrate.Xode.NET.RestClient.csproj"/>
+    <ProjectReference Include="..\Substrate.Xode.NET.RestService\Substrate.Xode.NET.RestService.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Substrate.NET.Wallet" Version="1.0.8"/>
+  </ItemGroup>
+</Project>

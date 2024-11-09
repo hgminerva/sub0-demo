@@ -1,0 +1,15 @@
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/bin/Debug/netstandard2.0/Substrate.Xode.NET.Integration.xml
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/bin/Debug/netstandard2.0/Substrate.Xode.NET.Integration.deps.json
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/bin/Debug/netstandard2.0/Substrate.Xode.NET.Integration.dll
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/bin/Debug/netstandard2.0/Substrate.Xode.NET.Integration.pdb
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/bin/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.dll
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/bin/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.pdb
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/bin/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.xml
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/obj/Debug/netstandard2.0/Substrate.Xode.NET.Integration.csproj.AssemblyReference.cache
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/obj/Debug/netstandard2.0/Substrate.Xode.NET.Integration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/obj/Debug/netstandard2.0/Substrate.Xode.NET.Integration.AssemblyInfoInputs.cache
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/obj/Debug/netstandard2.0/Substrate.Xode.NET.Integration.AssemblyInfo.cs
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/obj/Debug/netstandard2.0/Substrate.Xode.NET.Integration.csproj.CoreCompileInputs.cache
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/obj/Debug/netstandard2.0/Substrate.Xode.NET.Integration.csproj.CopyComplete
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/obj/Debug/netstandard2.0/Substrate.Xode.NET.Integration.dll
+/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/obj/Debug/netstandard2.0/Substrate.Xode.NET.Integration.pdb

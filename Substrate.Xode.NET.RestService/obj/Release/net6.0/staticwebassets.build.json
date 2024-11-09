@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KFzoqrI3M5otCo84QFrRhB7FXnuRWYER0gCCCXQ3rwg=",
+  "Source": "Substrate.Xode.NET.RestService",
+  "BasePath": "_content/Substrate.Xode.NET.RestService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
