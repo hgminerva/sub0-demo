@@ -6636,11 +6636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET/Substrate.Xode.NET.csproj",
+      "projectUniqueName": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET/Substrate.Xode.NET.csproj",
       "projectName": "Substrate.Xode.NET",
-      "projectPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET/Substrate.Xode.NET.csproj",
+      "projectPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET/Substrate.Xode.NET.csproj",
       "packagesPath": "/Users/hgminerva/.nuget/packages/",
-      "outputPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET/obj/",
+      "outputPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hgminerva/.nuget/NuGet/NuGet.Config"
@@ -6655,23 +6655,23 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/Substrate.Xode.NET.Integration.csproj": {
-              "projectPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.Integration/Substrate.Xode.NET.Integration.csproj"
+            "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.Integration/Substrate.Xode.NET.Integration.csproj": {
+              "projectPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.Integration/Substrate.Xode.NET.Integration.csproj"
             },
-            "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj": {
-              "projectPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj"
+            "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj": {
+              "projectPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj"
             },
-            "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient.Mockup/Substrate.Xode.NET.RestClient.Mockup.csproj": {
-              "projectPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient.Mockup/Substrate.Xode.NET.RestClient.Mockup.csproj"
+            "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient.Mockup/Substrate.Xode.NET.RestClient.Mockup.csproj": {
+              "projectPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient.Mockup/Substrate.Xode.NET.RestClient.Mockup.csproj"
             },
-            "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient.Test/Substrate.Xode.NET.RestClient.Test.csproj": {
-              "projectPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient.Test/Substrate.Xode.NET.RestClient.Test.csproj"
+            "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient.Test/Substrate.Xode.NET.RestClient.Test.csproj": {
+              "projectPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient.Test/Substrate.Xode.NET.RestClient.Test.csproj"
             },
-            "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient/Substrate.Xode.NET.RestClient.csproj": {
-              "projectPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient/Substrate.Xode.NET.RestClient.csproj"
+            "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient/Substrate.Xode.NET.RestClient.csproj": {
+              "projectPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient/Substrate.Xode.NET.RestClient.csproj"
             },
-            "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestService/Substrate.Xode.NET.RestService.csproj": {
-              "projectPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestService/Substrate.Xode.NET.RestService.csproj"
+            "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestService/Substrate.Xode.NET.RestService.csproj": {
+              "projectPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestService/Substrate.Xode.NET.RestService.csproj"
             }
           }
         }

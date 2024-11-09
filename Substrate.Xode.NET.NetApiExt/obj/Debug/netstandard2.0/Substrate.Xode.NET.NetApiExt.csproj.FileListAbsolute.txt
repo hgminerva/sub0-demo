@@ -9,3 +9,14 @@
 /Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.NetApiExt/obj/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.csproj.CoreCompileInputs.cache
 /Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.NetApiExt/obj/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.dll
 /Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.NetApiExt/obj/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.pdb
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/bin/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.xml
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/bin/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.deps.json
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/bin/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.dll
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/bin/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.pdb
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/obj/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.csproj.AssemblyReference.cache
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/obj/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/obj/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.AssemblyInfoInputs.cache
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/obj/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.AssemblyInfo.cs
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/obj/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.csproj.CoreCompileInputs.cache
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/obj/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.dll
+/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/obj/Debug/netstandard2.0/Substrate.Xode.NET.NetApiExt.pdb

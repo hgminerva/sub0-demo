@@ -18,6 +18,8 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 
 using static Substrate.NetApi.Mnemonic;
+using System.Text.Json;
+using System.Text;
 
 class Program
 {
@@ -83,22 +85,77 @@ class Program
         } 
         */
 
-        // Get the token
-        string api = "http://dev.xgame.live/";
-        using (var apiClient = new HttpClient()) {
-             apiClient.BaseAddress = new System.Uri(api);
-             apiClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-             HttpResponseMessage httpResponse = await apiClient.GetAsync("api/Employee/GetAllEmployees");
-            if (httpResponse.IsSuccessStatusCode) {
-                    var httpResult = httpResponse.Content.ReadAsStringAsync().Result;
-                    Console.WriteLine(httpResult.ToString());
+        /*
+        User user = new User { 
+            username = "xgame1",
+            password = "password123",
+            confirm_password = "password123",
+        };
+
+        try
+        {
+            using var http_client = new HttpClient();
+            var user_json = JsonSerializer.Serialize(user);
+            HttpContent content = new StringContent(user_json, System.Text.Encoding.UTF8, "application/json");
+            var response = await http_client.PostAsync("https://dev.xgame.live/user/create", content);
+            if (response.IsSuccessStatusCode) {
+                var result = await response.Content.ReadAsStringAsync();
+                Console.WriteLine(result);
+            }
+            else {
+                Console.WriteLine($"Failed with status code {response.StatusCode}");
             }
         }
-       
+        catch (Exception ex) {
+            Console.WriteLine(ex.ToString());
+        }
+        */
 
+        // Login
+        UserLogin user_login = new UserLogin { 
+            username = "xgame1",
+            password = "password123",
+        };
+        AccessToken access_token = new AccessToken();
+        try
+        {
+            using var http_client = new HttpClient();
+            var user_json = JsonSerializer.Serialize(user_login);
+            HttpContent content = new StringContent(user_json, System.Text.Encoding.UTF8, "application/json");
+            var response = await http_client.PostAsync("https://dev.xgame.live/user/login", content);
+            if (response.IsSuccessStatusCode) {
+                var result = await response.Content.ReadAsStringAsync();
+                access_token = JsonSerializer.Deserialize<AccessToken>(result);
+                Console.WriteLine(access_token.access_token);
+            }
+            else {
+                Console.WriteLine($"Failed with status code {response.StatusCode}");
+            }
+        }
+        catch (Exception ex) {
+            Console.WriteLine(ex.ToString());
+        }
 
 
     }
+}
+
+class User
+{
+   public string username { get; set; } = string.Empty;
+   public string password { get; set; } = string.Empty;
+   public string confirm_password { get; set; } = string.Empty;
+}
+
+class UserLogin
+{
+   public string username { get; set; } = string.Empty;
+   public string password { get; set; } = string.Empty;
+}
+
+class AccessToken
+{
+   public string access_token { get; set; } = string.Empty;
 }
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BKLWg0546+1Vi4aJ9NtDdVy31mGteqwlS/+bhxGCAgvfy/maTToLa6iF2/pTVwtKyw1zrmhHBKCDTw/s2xwmDA==",
+  "dgSpecHash": "ZBJnXJLrAl8B/qjyfgukiHNLQyPH8r0yQrcvozQcbntjHfuGWmzfvEIavTZzsJQLFrFAePDIjpA7hqsSW0FwZA==",
   "success": true,
-  "projectFilePath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestService/Substrate.Xode.NET.RestService.csproj",
+  "projectFilePath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestService/Substrate.Xode.NET.RestService.csproj",
   "expectedPackageFiles": [
     "/Users/hgminerva/.nuget/packages/blake2core/1.0.0/blake2core.1.0.0.nupkg.sha512",
     "/Users/hgminerva/.nuget/packages/chaos.nacl.standard/1.0.0/chaos.nacl.standard.1.0.0.nupkg.sha512",

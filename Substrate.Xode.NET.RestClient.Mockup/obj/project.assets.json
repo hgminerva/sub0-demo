@@ -2145,11 +2145,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient.Mockup/Substrate.Xode.NET.RestClient.Mockup.csproj",
+      "projectUniqueName": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient.Mockup/Substrate.Xode.NET.RestClient.Mockup.csproj",
       "projectName": "Substrate.Xode.NET.RestClient.Mockup",
-      "projectPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient.Mockup/Substrate.Xode.NET.RestClient.Mockup.csproj",
+      "projectPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient.Mockup/Substrate.Xode.NET.RestClient.Mockup.csproj",
       "packagesPath": "/Users/hgminerva/.nuget/packages/",
-      "outputPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient.Mockup/obj/",
+      "outputPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient.Mockup/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hgminerva/.nuget/NuGet/NuGet.Config"
@@ -2164,8 +2164,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient/Substrate.Xode.NET.RestClient.csproj": {
-              "projectPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.RestClient/Substrate.Xode.NET.RestClient.csproj"
+            "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient/Substrate.Xode.NET.RestClient.csproj": {
+              "projectPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.RestClient/Substrate.Xode.NET.RestClient.csproj"
             }
           }
         }

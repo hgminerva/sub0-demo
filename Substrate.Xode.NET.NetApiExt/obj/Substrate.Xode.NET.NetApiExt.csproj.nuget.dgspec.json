@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj": {}
+    "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj": {}
   },
   "projects": {
-    "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj": {
+    "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj",
+        "projectUniqueName": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj",
         "projectName": "Substrate.Xode.NET.NetApiExt",
-        "projectPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj",
+        "projectPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/Substrate.Xode.NET.NetApiExt.csproj",
         "packagesPath": "/Users/hgminerva/.nuget/packages/",
-        "outputPath": "/Users/hgminerva/Projects/xode/substrate-netapi-xode-v1/Substrate.Xode.NET.NetApiExt/obj/",
+        "outputPath": "/Users/hgminerva/Projects/xode/sub0-demo/Substrate.Xode.NET.NetApiExt/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
